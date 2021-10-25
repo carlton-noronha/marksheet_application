@@ -1,0 +1,43 @@
+{
+  "marksheet": [
+    {
+      "rollNo": "R16CS227",
+      "name": "Timothy",
+      "physics": "89",
+      "chemistry": "53",
+      "math": "66",
+      "english": "66",
+      "science": "34",
+      "total": 308,
+      "percentage": 62,
+      "result": "Pass",
+      "_id": "5c18ff10-3166-11ec-a6f2-938c1c5482a3"
+    },
+    {
+      "rollNo": "R17CS221",
+      "name": "Sam",
+      "physics": "78",
+      "chemistry": "89",
+      "math": "89",
+      "english": "90",
+      "science": "95",
+      "total": 441,
+      "percentage": 89,
+      "result": "Pass",
+      "_id": "988b8b70-3166-11ec-ae9d-67fa2c26467b"
+    },
+    {
+      "rollNo": "R17CS990",
+      "name": "Jane",
+      "physics": "67",
+      "chemistry": "89",
+      "math": "34",
+      "english": "65",
+      "science": "78",
+      "total": 333,
+      "percentage": 67,
+      "result": "Pass",
+      "_id": "accc7b30-3166-11ec-ae9d-67fa2c26467b"
+    }
+  ]
+}
